@@ -21,9 +21,21 @@
     <ClCompile Include="wall.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="snake.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="food.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="wall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="snake.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="food.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
